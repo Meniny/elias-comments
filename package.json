@@ -1,5 +1,5 @@
 {
-    "name": "Elias Comments",
+    "name": "elias-comments",
     "main": "./lib/comment",
     "version": "1.0.0",
     "description": "An Atom package for inserting comments with keyboard shortcut",
